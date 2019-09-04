@@ -1,21 +1,20 @@
-title: "My JuliaCon proceeding"
+title: "TSML (Time Series Machine Learning)"
 keywords:
   - Julia
-  - Optimization
-  - Game theory
-  - Compiler
+  - Time Series
+  - Machine Learning
+  - Filters
+  - Feature Extraction
+  - Classification
+  - Prediction
+  - Aggregation
+  - Imputation
 authors:
-  - name: 1st author
-    orcid: 0000-0003-1361-440X
-    affiliation: 1
-  - name: 2nd author
-    affiliation: 1, 2
-  - name: 3rd author
-    affiliation: 2
+  - name: Paulito Palmes
+    orcid: 0000-0002-3145-6356
+  - name: Joern Ploennigs
+  - name: Niall Brady
 affiliations:
-  - name: University
-    index: 1
-  - name: National Lab
-    index: 2
-date: 24 April 2019
+  - name: IBM Dublin Research Lab
+date: 27 August 2019
 bibliography: ref.bib
